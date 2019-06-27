@@ -1,0 +1,71 @@
+github.com/AlDanial/cloc v 1.82  T=132.27 s (0.0 files/s, 0.0 lines/s)
+----------------------------------------------------------------------------------------
+Language                              files          blank        comment           code
+----------------------------------------------------------------------------------------
+Java
+ same                                  1043          18774         116039         194416
+ modified                               469              0            678           1198
+ added                                    1             93            259            936
+ removed                                104           2983           8120          13226
+HTML
+ same                                     1             27             14             72
+ modified                                 0              0              0              0
+ added                                    0              0              0              0
+ removed                               2013          21034              0         191178
+XML
+ same                                    20            208            691           9851
+ modified                                16              0              3            126
+ added                                    0              2              3             85
+ removed                                515             53             47          41750
+Maven
+ same                                     2              9             34            105
+ modified                                 0              0              0              0
+ added                                    1             30             45            716
+ removed                                  1             30             46            810
+JavaScript
+ same                                     0              0              0              0
+ modified                                 0              0              0              0
+ added                                    0              0              0              0
+ removed                                  2            106            460           1091
+R
+ same                                     3             24            372            678
+ modified                                10              0              1             36
+ added                                    0              0              0              1
+ removed                                  0              3              7             26
+CSS
+ same                                     2             16             32             96
+ modified                                 0              0              0              0
+ added                                    0              0              0              0
+ removed                                  2             46              1            209
+Ant
+ same                                     0              0             63            212
+ modified                                 1              0              0              6
+ added                                    0              0              0              0
+ removed                                  0              0              0             11
+Markdown
+ same                                     2             30              0            165
+ modified                                 0              0              0              0
+ added                                    0              0              0              0
+ removed                                  0              0              0              0
+Velocity Template Language
+ same                                     1             17             28             95
+ modified                                 0              0              0              0
+ added                                    0              0              0              0
+ removed                                  0              0              0              0
+XSLT
+ same                                     1              4             14             50
+ modified                                 0              0              0              0
+ added                                    0              0              0              0
+ removed                                  0              0              0              0
+Bourne Shell
+ same                                     4              6             98             46
+ modified                                 0              0              0              0
+ added                                    0              0              0              0
+ removed                                  0              0              0              0
+----------------------------------------------------------------------------------------
+SUM:
+ same                                  1079          19115         117385         205786
+ modified                               496              0            682           1366
+ added                                    2            125            307           1738
+ removed                               2637          24255           8681         248301
+----------------------------------------------------------------------------------------
